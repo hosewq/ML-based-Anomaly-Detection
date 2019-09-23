@@ -8,11 +8,9 @@
 
 ### Software
 - NFVI: OpenStack Pike release
-- VNF: iptables (firewall), Suricata (open-source IDS/IPS) 
-- Traffic generator: D-ITG
+- OS: Ubuntu 16.04 Xenial
 
 ## testbed setup
-
-
-
+- VNF: iptables 1.6.0 (firewall), Suricata 4.1.4 (open-source IDS/IPS) 
+- Traffic generator: D-ITG
 
